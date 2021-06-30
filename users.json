@@ -1,0 +1,29 @@
+{
+  "user1": {
+    "id":1,
+    "firstname":"Sagar",
+    "lastname":"magar",
+    "email":"sagar@gmail.com"
+  },
+
+  "user2":  {
+    "id":2,
+    "firstname":"Aniket",
+    "lastname":"Gaikwad",
+    "email":"aniket@gmail.com"
+  },
+
+  "user3":  {
+    "id":3,
+    "firstname":"Pankaj",
+    "lastname":"magar",
+    "email":"pankaj@gmail.com"
+  },
+
+  "user4": {
+    "id":4,
+    "firstname":"Ganesh",
+    "lastname":"magar",
+    "email":"ganesh@gmail.com"
+  }
+}
